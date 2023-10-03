@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ccf3d8c2-d333-4a0b-ba02-f2e8a9bad23c": {
+      "ProjectGuid": "ccf3d8c2-d333-4a0b-ba02-f2e8a9bad23c",
+      "DisplayName": "CalculateGradePoint",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

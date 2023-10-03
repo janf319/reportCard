@@ -1,0 +1,8 @@
+C:\Users\Fatima\source\repos\CalculateGradePoint\bin\Debug\CalculateGradePoint.exe.config
+C:\Users\Fatima\source\repos\CalculateGradePoint\bin\Debug\CalculateGradePoint.exe
+C:\Users\Fatima\source\repos\CalculateGradePoint\bin\Debug\CalculateGradePoint.pdb
+C:\Users\Fatima\source\repos\CalculateGradePoint\obj\Debug\CalculateGradePoint.csproj.AssemblyReference.cache
+C:\Users\Fatima\source\repos\CalculateGradePoint\obj\Debug\CalculateGradePoint.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fatima\source\repos\CalculateGradePoint\obj\Debug\CalculateGradePoint.csproj.CoreCompileInputs.cache
+C:\Users\Fatima\source\repos\CalculateGradePoint\obj\Debug\CalculateGradePoint.exe
+C:\Users\Fatima\source\repos\CalculateGradePoint\obj\Debug\CalculateGradePoint.pdb
